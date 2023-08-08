@@ -1,0 +1,9 @@
+{
+  "name": "com.mertbalkan.referencereminder",
+  "displayName": "Reference-Reminder",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/MertBalkan/UnityReferenceReminder",
+  "licensesUrl": "https://github.com/MertBalkan/UnityReferenceReminder/blob/main/LICENSE.txt",
+  "description": "This asset helps you to manage marked property in inspector to see whether it's reference is null or not.",
+  "hideInEditor": false
+}
