@@ -5,36 +5,34 @@ For Unity3D in C# written simple null object reference finder.
 * This property drawer helps you to manage your null reference type objects. Especially helpful for fast reference assign from inspector.
 * Useful for ```Game jams.```
 
-
-https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/3d33c1d1-ce77-494a-b95b-0357a2abb2bf
-
+https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/c808866c-1763-4aec-b5cf-0881b55debec
 
 ## Installation
 At the installation part, you can download this package using Unity's Package Manager.
 
-* Firstly, click the `Code` button of this repository 
-
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/692d578a-c9b5-47d5-80f5-680a49a5b919)
+* Firstly, click the `Code` button of this repository
+  
+![Screenshot 2023-08-08 194641](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/e100bf73-fe89-407c-aab4-ac662b26bb8e)
 
 * After that, copy the path of this package.
 
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/914aea2b-8460-49da-85fc-2b6d81e7fdca)
+![Screenshot 2023-08-08 194735](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/de2e6259-8e33-4bd5-8245-e224cc4aadd7)
 
 * Then, go to `Unity Editor/Window/Package Manager` path from your editor.
 
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/ea5a8198-c1dd-4caf-8c77-a000e5f2165a)
+![Screenshot 2023-08-08 194842](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/d3314aa1-433b-414d-acd3-e25161436c81)
 
 * At the package manager, click the `+` icon then select the `Add package from git URL...` section.
   
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/5da060e3-2b9a-4eb5-b005-40124f3795f4)
+![Screenshot 2023-08-08 194954](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/fc4fd716-7c43-4f6b-b126-717d1d6d506d)
 
 * After selecting that option, now you can paste the git path to here and press the `Add` button.
-  
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/2d26ce48-7fb4-4a97-883e-aa7888e341e3)
+
+![Screenshot 2023-08-08 195040](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/8a39a60e-df4b-4509-b156-6276f5a5e428)
 
 * Finally, you have successfully added this package to your project!
   
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/23f424ce-2ea0-46bf-9d8b-655c72aa3617)
+![Screenshot 2023-08-08 195147](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/208f061e-f677-41ad-9f8e-11f9f1822155)
 
 ## Usage
 * For using it just add ```[RefReminder]``` attribute to your reference type fields.
@@ -62,7 +60,7 @@ You can also add comments to leave a message to yourself:
 [RefReminder("Message 2")]
 ```
 
-![image](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/90637b1e-1ad9-41e2-92f9-ab8c5ad6d3d5)
+![Screenshot 2023-08-08 200209](https://github.com/MertBalkan/UnityReferenceReminder/assets/43827959/94aa5d55-3b95-41cd-9220-8f5294d77f77)
 
 ## License
 This code is released under MIT license. Modify, distribute, sell, fork, and use this as much as you like. Both for personal and commercial use. I hold no responsibility if anything goes wrong.
