@@ -5,11 +5,11 @@ using UnityEngine;
 /// Reminder attribute can be applied to fields.
 /// </summary>
 [AttributeUsage(AttributeTargets.Field)]
-public class ReminderAttribute : PropertyAttribute
+public class RefReminderAttribute : PropertyAttribute
 {
     public string reminderText;
 
-    public ReminderAttribute(string reminderText = "")
+    public RefReminderAttribute(string reminderText = "")
     {
         this.reminderText = reminderText;
     }
